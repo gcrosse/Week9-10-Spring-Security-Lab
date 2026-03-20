@@ -1,4 +1,4 @@
-# Lab 5 - Spring Security (Authentication & Role-Based Authorization)
+# Lab 5 & 6 - Spring Security (Authentication & Role-Based Authorization)
 
 ## Course Information
 
