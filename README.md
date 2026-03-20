@@ -252,6 +252,7 @@ Then open a Pull Request and submit the link on Blackboard.
 
 ## Resources
 
+* [Class--Code](https://github.com/Christin-Classrooms/Week9-10-Spring-Security)
 * [Custom Queries Cheatsheet](CustomQueries_CHEATSHEET.md)
 * [Thymeleaf Cheat Sheet](THYMELEAF_CHEATSHEET.md)
 * [Spring Security Docs](https://spring.io/projects/spring-security)
